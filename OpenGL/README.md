@@ -2,5 +2,5 @@
 �
 �
 
-#Przekształcenia geometryczne
+# Przekształcenia geometryczne
 [lekcja] Rozdział 4. Obrót, skalowanie, przesunięcie, mnożenie macierzy, ładowanie macierzy, składanie przekształceń, bryły w bibliotece GLUT (kula, sześcian, stożek, torus, dwunastościan, czajnik, ośmiościan, czworościan, dwudziestościan), operacje na stosie macierzy, stos macierzy modelowania; przeliczenia współrzędnych w przestrzeni widoku na współrzędne w przestrzeni okna i odwrotnie; obsługa myszki oraz dwa przykładowe programy.
