@@ -1,3 +1,11 @@
+https://cpp0x.pl/kursy/Kurs-OpenGL-C++/Przeksztalcenia-geometryczne/105
+
+/*
+(c) Janusz Ganczarski
+http://www.januszg.hg.pl
+JanuszG(małpeczka)enter.net.pl
+*/
+
 ��#� �C�-�O�p�e�n�G�L�
 �
 �
