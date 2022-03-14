@@ -1,7 +1,0 @@
-﻿  Źródło.cpp
-D:\Natalia\Documents\Visual\OpenGL\OpenGL\Źródło.cpp(249,21): warning C4305: "+=": obcięcie z "double" do "GLfloat"
-D:\Natalia\Documents\Visual\OpenGL\OpenGL\Źródło.cpp(254,25): warning C4305: "-=": obcięcie z "double" do "GLfloat"
-D:\Natalia\Documents\Visual\OpenGL\OpenGL\Źródło.cpp(339,31): warning C4244: "+=": konwersja z "GLdouble" do "GLfloat", możliwa utrata danych
-D:\Natalia\Documents\Visual\OpenGL\OpenGL\Źródło.cpp(340,31): warning C4244: "+=": konwersja z "GLdouble" do "GLfloat", możliwa utrata danych
-  OpenGL.vcxproj -> D:\Natalia\Documents\Visual\OpenGL\x64\Debug\OpenGL.exe
-          1 file(s) copied.
